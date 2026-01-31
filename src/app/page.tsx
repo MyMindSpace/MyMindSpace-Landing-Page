@@ -98,7 +98,7 @@ export default function Home() {
             Professional support, in your pocket.
           </h2>
           <p className="font-sans text-lg text-gray-700 mb-6">
-            Meet your AI Therapist that feels human, private, and always available.
+            Meet your AI Therapist Companion that feels human, private, and always available.
           </p>
         </motion.div>
 
